@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[niz:home|Door43 (niz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-niz|d43-niz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-niz/archive/master.zip|d43-niz.zip]]
+
+**Recent Changes**
+{{changes>ns = niz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/niz|Ethnologue data]]
+
